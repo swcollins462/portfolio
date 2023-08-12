@@ -3394,6 +3394,7 @@ input, select, textarea {
 			font-size: 1.25rem;
 			font-style: italic;
 			margin-top: -0.25rem;
+			margin-bottom: .75rem;
 			text-align: center;
 		}
 
@@ -3448,6 +3449,11 @@ input, select, textarea {
 				transform: translateY(4rem);
 				opacity: 0;
 			}
+
+		.intro-list {
+			margin-bottom: 2rem;
+			justify-content: center;
+		}
 
 		@media screen and (max-width: 980px) {
 
